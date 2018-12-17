@@ -1,0 +1,14 @@
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.RazorAssemblyInfo.cache
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.RazorAssemblyInfo.cs
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.AssemblyInfoInputs.cache
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.AssemblyInfo.cs
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\bin\Debug\netcoreapp2.2\MyApplication.deps.json
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\bin\Debug\netcoreapp2.2\MyApplication.runtimeconfig.json
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\bin\Debug\netcoreapp2.2\MyApplication.runtimeconfig.dev.json
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\bin\Debug\netcoreapp2.2\MyApplication.dll
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\bin\Debug\netcoreapp2.2\MyApplication.pdb
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.dll
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.pdb
+C:\Users\Lukas\source\repos\MyApplication\MyApplication\obj\Debug\netcoreapp2.2\MyApplication.csprojAssemblyReference.cache
